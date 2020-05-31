@@ -1,2 +1,2 @@
 # bravo
-first repo
+Dean Bredesen's github repository
