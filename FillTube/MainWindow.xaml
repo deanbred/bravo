@@ -15,6 +15,8 @@
                 <Grid Background="#FFE5E5E5">
                     <Button x:Name="btnLoadImageAxis1" Content="Load Image" HorizontalAlignment="Left" Margin="25,25,0,0" VerticalAlignment="Top" Width="75"  Click="Button_LoadImageAxis1_Click"/>
                     <Button x:Name="btnLoadImageAxis2" Content="Load Image" HorizontalAlignment="Left" Margin="325,25,0,0" VerticalAlignment="Top" Width="75"  Click="Button_LoadImageAxis2_Click"/>
+                    <TextBox HorizontalAlignment="Left" Height="23" Margin="109,109,0,0" TextWrapping="Wrap" Text="1.5" VerticalAlignment="Top" Width="60" HorizontalContentAlignment="Right" VerticalContentAlignment="Center"/>
+                    <Label Content="Threshold" HorizontalAlignment="Left" Margin="42,106,0,0" VerticalAlignment="Top"/>
                 </Grid>
             </TabItem>
             <TabItem Header="X-Ray" UseLayoutRounding="True">
